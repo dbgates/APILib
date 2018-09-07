@@ -18,5 +18,9 @@ namespace APILib
         {
             return base.ToString();
         }
+        public string getData(int id)
+        {
+            return "";
+        }
     }
 }
